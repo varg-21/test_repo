@@ -3,11 +3,6 @@
 Welcome to GNU Emacs, one component of the GNU/Linux operating system.
 
 # HI
-
-#Hello!
-
-#Created New Branch.
-
 Welcome to GNU Emacs, one component of the GNU/Linux operating system.
 
 Emacs Tutorial	Learn basic keystroke commands
